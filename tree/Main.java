@@ -1,4 +1,4 @@
-package Three;
+package Tree;
 
 import java.util.ArrayList;
 import three.Three;
